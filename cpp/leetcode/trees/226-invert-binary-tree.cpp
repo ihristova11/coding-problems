@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/invert-binary-tree/
-#include <bits/stdc++.h> 
+#include <algorithm>
 using namespace std;
 
 // Definition for a binary tree node.
