@@ -1,1 +1,1 @@
-# hacker-rank-problems
+# coding-problems
